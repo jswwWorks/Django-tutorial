@@ -1,0 +1,7 @@
+asgiref==3.7.2
+certifi @ file:///private/tmp/python-certifi-20231008-5561-13s00fm/certifi-2023.7.22
+Django==5.0.1
+psycopg2-binary==2.9.9
+Pygments @ file:///private/tmp/pygments-20231008-5534-zuvwpt/Pygments-2.16.1
+six==1.16.0
+sqlparse==0.4.4
